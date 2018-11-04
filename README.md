@@ -1,8 +1,10 @@
 # spring-boot-startup-mybench
 
-I watched a session of Dave and tried it by myself in this repo.
+I watched a session which Dave presented at Spring One Platform 2018.
 
 https://springoneplatform.io/2018/sessions/how-fast-is-spring-
+
+Then I tried it by myself in this repo to understand his session.
 
 ## JDK
 
