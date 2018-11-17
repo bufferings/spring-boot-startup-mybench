@@ -6,6 +6,10 @@ https://springoneplatform.io/2018/sessions/how-fast-is-spring-
 
 Then I tried it by myself in this repo to understand his session.
 
+## BlogPost
+
+https://dev.to/bufferings/lets-make-springboot-app-start-faster-k9m
+
 ## JDK
 
 I used JDK 11 and didn't check other versions.
